@@ -1,4 +1,4 @@
-# 📊 Case Study: Revenue Growth Strategy for Global Superstore
+# Case Study: Revenue Growth Strategy for Global Superstore
 ### A Business Analyst's Data-Driven Approach to Increasing Revenue
 
 ---
@@ -10,7 +10,7 @@
 
 ---
 
-## 📌 Executive Summary
+##  Executive Summary
 
 Global Superstore, a multinational retail company, experienced strong revenue growth of **90.3%** over four years (2011–2014), growing from **$2.26M to $4.30M**. However, profitability remained constrained at an overall **11.6% margin** due to aggressive discounting practices, underperforming product lines, and untapped market potential.
 
@@ -18,7 +18,7 @@ This case study identifies **five strategic opportunities** that, if implemented
 
 ---
 
-## 📋 Table of Contents
+##  Table of Contents
 
 1. [Business Context & Problem Statement](#1-business-context--problem-statement)
 2. [Methodology & Approach](#2-methodology--approach)
@@ -142,10 +142,10 @@ This is the **most critical and immediately actionable finding**.
 
 | Discount Level | Avg Profit Per Order | Impact |
 |----------------|----------------------|--------|
-| No Discount (0%) | **+$61.04** | ✅ Healthy profit |
-| 1–20% | Moderate positive | ✅ Acceptable |
-| 21–30% | Near break-even | ⚠️ Warning zone |
-| >30% | **−$76.59** | ❌ Net loss per order |
+| No Discount (0%) | **+$61.04** | Healthy profit |
+| 1–20% | Moderate positive | Acceptable |
+| 21–30% | Near break-even | Warning zone |
+| >30% | **−$76.59** | Net loss per order |
 
 - **Correlation between discount and profit: −0.316** (statistically significant negative relationship)
 - The company is literally **paying customers to take products** when discounts exceed 30%
@@ -161,10 +161,10 @@ Out of 17 sub-categories, **Tables is the only one generating a net loss**.
 
 | Sub-Category | Revenue | Profit | Status |
 |--------------|---------|--------|--------|
-| Copiers | High | **Highest profit** | 🌟 Star performer |
-| Phones | High | High profit | 🌟 Star performer |
-| Accessories | Moderate | Good profit | ✅ Healthy |
-| **Tables** | Moderate | **Negative** | ❌ Loss-making |
+| Copiers | High | **Highest profit** | Star performer |
+| Phones | High | High profit | Star performer |
+| Accessories | Moderate | Good profit | Healthy |
+| **Tables** | Moderate | **Negative** | Loss-making |
 
 - Tables are cannibalizing the Furniture category's profitability
 - The Furniture category would have a **~10% margin** (instead of 6.9%) if Tables were either fixed or discontinued
