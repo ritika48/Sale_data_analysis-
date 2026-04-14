@@ -136,7 +136,7 @@ I structured the analysis around **five revenue levers** commonly used in retail
 
 ## 4. Key Findings & Revenue Opportunities
 
-### 🔍 Finding #1: Discounts Over 30% Are Destroying Revenue AND Profit
+### Finding #1: Discounts Over 30% Are Destroying Revenue AND Profit
 
 This is the **most critical and immediately actionable finding**.
 
@@ -155,7 +155,7 @@ This is the **most critical and immediately actionable finding**.
 
 ---
 
-### 🔍 Finding #2: Tables Sub-Category Is a Revenue Black Hole
+### Finding #2: Tables Sub-Category Is a Revenue Black Hole
 
 Out of 17 sub-categories, **Tables is the only one generating a net loss**.
 
@@ -174,7 +174,7 @@ Out of 17 sub-categories, **Tables is the only one generating a net loss**.
 
 ---
 
-### 🔍 Finding #3: Seasonal Peaks Are Underutilized
+### Finding #3: Seasonal Peaks Are Underutilized
 
 | Peak Months | Slow Months |
 |-------------|-------------|
@@ -188,7 +188,7 @@ Out of 17 sub-categories, **Tables is the only one generating a net loss**.
 
 ---
 
-### 🔍 Finding #4: APAC Is Underinvested Despite Being the Largest Market
+### Finding #4: APAC Is Underinvested Despite Being the Largest Market
 
 - APAC represents **28.4% of total revenue** ($3.59M) — the single largest market
 - Yet marketing and operational investment may not reflect this dominance
@@ -198,7 +198,7 @@ Out of 17 sub-categories, **Tables is the only one generating a net loss**.
 
 ---
 
-### 🔍 Finding #5: Consumer Segment Drives 51.5% of Revenue — But Are We Retaining Them?
+### Finding #5: Consumer Segment Drives 51.5% of Revenue — But Are We Retaining Them?
 
 | Segment | Revenue Share |
 |---------|---------------|
@@ -217,7 +217,7 @@ Out of 17 sub-categories, **Tables is the only one generating a net loss**.
 ## 5. Strategic Recommendations
 
 ### Recommendation 1: Implement a Smart Discount Policy
-**Priority:** 🔴 Critical | **Timeline:** Immediate (0–30 days)
+**Priority:** Critical | **Timeline:** Immediate (0–30 days)
 
 | Action | Detail |
 |--------|--------|
@@ -231,7 +231,7 @@ Out of 17 sub-categories, **Tables is the only one generating a net loss**.
 ---
 
 ### Recommendation 2: Restructure the Tables Product Line
-**Priority:** 🔴 Critical | **Timeline:** 30–60 days
+**Priority:** Critical | **Timeline:** 30–60 days
 
 | Action | Detail |
 |--------|--------|
@@ -245,7 +245,7 @@ Out of 17 sub-categories, **Tables is the only one generating a net loss**.
 ---
 
 ### Recommendation 3: Launch a Seasonal Revenue Maximization Program
-**Priority:** 🟡 High | **Timeline:** Before Q4 each year
+**Priority:** High | **Timeline:** Before Q4 each year
 
 | Season | Strategy |
 |--------|----------|
@@ -256,7 +256,7 @@ Out of 17 sub-categories, **Tables is the only one generating a net loss**.
 ---
 
 ### Recommendation 4: Double Down on APAC Market
-**Priority:** 🟡 High | **Timeline:** 60–90 days
+**Priority:** High | **Timeline:** 60–90 days
 
 | Action | Detail |
 |--------|--------|
@@ -268,7 +268,7 @@ Out of 17 sub-categories, **Tables is the only one generating a net loss**.
 ---
 
 ### Recommendation 5: Build a Customer Retention Engine
-**Priority:** 🟢 Medium | **Timeline:** 90–120 days
+**Priority:**  Medium | **Timeline:** 90–120 days
 
 | Action | Detail |
 |--------|--------|
@@ -315,11 +315,11 @@ PHASE 4 — Scale & Monitor (Month 6+)
 
 | Initiative | Revenue Impact | Profit Impact | Confidence |
 |------------|---------------|---------------|------------|
-| Smart Discount Policy | +$150K–$300K | +$200K–$400K | 🟢 High |
-| Fix Tables Sub-Category | +$50K–$100K | +$100K–$200K | 🟢 High |
-| Seasonal Maximization | +$300K–$500K | +$90K–$150K | 🟡 Medium |
-| APAC Market Investment | +$200K–$400K | +$80K–$160K | 🟡 Medium |
-| Customer Retention | +$500K–$750K (protected) | +$60K–$90K | 🟡 Medium |
+| Smart Discount Policy | +$150K–$300K | +$200K–$400K | High |
+| Fix Tables Sub-Category | +$50K–$100K | +$100K–$200K | High |
+| Seasonal Maximization | +$300K–$500K | +$90K–$150K | Medium |
+| APAC Market Investment | +$200K–$400K | +$80K–$160K | Medium |
+| Customer Retention | +$500K–$750K (protected) | +$60K–$90K | Medium |
 | **TOTAL** | **+$1.2M–$2.0M** | **+$530K–$1.0M** | — |
 
 > Based on 2014 revenue of $4.3M, these initiatives could increase annual revenue by **28–47%** and nearly **double the profit** from ~$600K to $1.1–$1.6M.
